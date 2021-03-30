@@ -1,1 +1,1 @@
-# AB-testing-interactive-visualisation
+# AB-testing-interactive-display
